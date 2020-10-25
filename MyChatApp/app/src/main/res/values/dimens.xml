@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="right">5dp</dimen>
+    <dimen name="top">5dp</dimen>
+    <dimen name="bottom">0dp</dimen>
+    <dimen name="left">0dp</dimen>
+
+    <dimen name="sixteendp">16dp</dimen>
+
+    <dimen name="textsize">16sp</dimen>
+</resources>

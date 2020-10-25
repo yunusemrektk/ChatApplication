@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyChatApp</string>
+
+    <string name="textUserName">Username</string>
+    <string name="textMessage">Say hi!</string>
+    <string name="buttonJoin">Join</string>
+</resources>
